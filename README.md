@@ -33,3 +33,14 @@ rates notice, STOP/HELP instructions, and links to Terms of Use and Privacy Poli
 
 One message per opt-in request — a single alert is sent when the requested item is
 back in stock or newly launched.
+
+## Business registration certificate
+
+Official English-language Certificate of Business Registration issued by the National
+Tax Service of Korea (Seongdong District Tax Office), 2026-07-23.
+
+- File: `business-registration-certificate-en.pdf`
+- Legal business name: IICOMBINED Co., Ltd.
+- Business Taxpayer ID / registration number: 119-86-38589
+- Issuing authority: National Tax Service of Korea
+- Country: South Korea
